@@ -1,10 +1,10 @@
-# 📬 Contact
+## 📬 Contact
 <a href="https://oguzhanuyanik.io/"><img alt="Web page" src="https://img.shields.io/badge/Portfolio-oguzhanuyanik.io-blue?style=red"></a>
 <a href="mailto:oguzhanuyanik.sr@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-oguzhanuyanik.sr%40gmail.com-red?style=red">
 <a href="https://medium.com/@oguzhanuyanik/"><img alt="Static Badge" src="https://img.shields.io/badge/Blog-medium.com%2F%40oguzhanuyanik-darkseagreen?style=red">
-</a>
+</a><br /><br />
 
-# 👨🏻‍💻 Technologies
+## 👨🏻‍💻 Technologies
 <p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+</p><br />
 
 
 <details>
