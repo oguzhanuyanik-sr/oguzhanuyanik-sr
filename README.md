@@ -1,7 +1,6 @@
 <a href="https://oguzhanuyanik.io/"><img alt="Web page" src="https://img.shields.io/badge/Portfolio-oguzhanuyanik.io-blue?style=red"></a>
 <a href="mailto:oguzhanuyanik.sr@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-oguzhanuyanik.sr%40gmail.com-red?style=red">
-<a href="https://medium.com/@oguzhanuyanik/"><img alt="Static Badge" src="https://img.shields.io/badge/Blog-medium.com%2F%40oguzhanuyanik-darkseagreen?style=red">
-</a>
+<a href="https://medium.com/@oguzhanuyanik/"><img alt="Static Badge" src="https://img.shields.io/badge/Blog-medium.com%2Foguzhanuyanik-seagreen"></a>
 ---
 <p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
